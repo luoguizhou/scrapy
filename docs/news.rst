@@ -3,6 +3,7 @@
 Release notes
 =============
 
+<<<<<<< HEAD
 Scrapy 1.6.0 (unreleased)
 -------------------------
 
@@ -13,6 +14,8 @@ Cleanups
 * Remove deprecated ``Settings.overrides`` and ``Settings.defaults`` attributes.
 
 
+=======
+>>>>>>> 50caaf5b4235a47c04ec26d2cedf32413ef89559
 Scrapy 1.5.1 (2018-07-12)
 -------------------------
 
